@@ -5,7 +5,7 @@ from io import BytesIO
 import pygame
 
 SPOTIFY_GET_CURRENT_TRACK_URL = 'https://api.spotify.com/v1/me/player/currently-playing'
-ACCESS_TOKEN = 'BQBjwHEhMR43xXGfc3lFNz_9_0LR83SVCadbbxQRFEhSZXxNwL9Xl10NUG09wfmeTf1SXcp1uhwOiYfyGD2olM4ykTl9sjg9YbJvYucaB6cAIZ2wKw0ks8NWBoF7AmBCPI3dJDd_h_xKa2JR1oiVUAB3yyKWgqumnFGgxoNsg2SZVw'
+ACCESS_TOKEN = '' #Paste Access Token Here
 white = (255, 255, 255)
 DEFAULT_IMAGE_SIZE = (480, 480)
 
